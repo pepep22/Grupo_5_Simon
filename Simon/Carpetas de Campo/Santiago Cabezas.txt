@@ -1,1 +1,2 @@
-a
+8/9/26
+Hice una investigación de como estructurar secuencias en un arreglo de arduino
