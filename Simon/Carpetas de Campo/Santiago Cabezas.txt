@@ -1,3 +1,1 @@
-8/9/26
-Hice una investigación de como estructurar secuencias en un arreglo de arduino
 https://docs.google.com/document/d/1t4IIg68XvthKtZlvfuXnbx7ty8jYLxebqRtjauZg6Ps/edit?tab=t.0
