@@ -1,8 +1,1 @@
-investigue para saber hacer melodías simples en Arduino con buzzers
-
-cree una melodía de exito para señalar cuando el jugador completo la secuencia correctamente
-
-cree una melodía de fallo para señalar que la secuencia se reinicio cuando el jugador comete un error en la secuencia
-
-investigue sobre como funcionan los botones para poder hacer ambas melodias en un solo circuito pero todavía no lo logre
-Es en drive y en publico
+https://docs.google.com/document/d/1PgzDugVbGgHePma3mx_MtHJOV3WJvwmy50dZTxMtVEo/edit?tab=t.0
